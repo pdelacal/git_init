@@ -1,3 +1,3 @@
 # git_init
 
-#a read me for a homework assignment on the 23rd of January
+#A few files from my first two weeks at Wyncode. world.rb is from our initial forray into Classes and creating factoy methods
